@@ -1,0 +1,1 @@
+﻿global using Ct.Interview.Domain.Entities;

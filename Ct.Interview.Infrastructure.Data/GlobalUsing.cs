@@ -1,0 +1,13 @@
+﻿global using CsvHelper;
+global using CsvHelper.Configuration;
+global using Ct.Interview.Domain.Entities;
+global using Ct.Interview.Domain.Repository;
+global using Ct.Interview.Infrastructure.Data.Context;
+global using Ct.Interview.Infrastructure.Data.DataSeed;
+global using Ct.Interview.Infrastructure.Data.Repository;
+global using Ct.Interview.Infrastructure.Util;
+global using Microsoft.AspNetCore.Builder;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Globalization;
